@@ -149,5 +149,6 @@ Observação: Certifique-se de que o arquivo CSV está corretamente formatado e 
 
 Autor: [José Augusto Ferreira RA: 20515] Data de Criação: [14/11/2024]
 
-imagem dashboard![IOT2](https://github.com/user-attachments/assets/e50da326-a568-4f1f-83fd-63f2d9e554bc)
-imagem cmd para gerar a pagina web com o dashboard![IOT](https://github.com/user-attachments/assets/a7dc7eac-a7f1-4217-950d-7355419db1c6)
+
+Imagem dashboard![IOT2](https://github.com/user-attachments/assets/e50da326-a568-4f1f-83fd-63f2d9e554bc)
+Imagem cmd para gerar a pagina web com o dashboard![IOT](https://github.com/user-attachments/assets/a7dc7eac-a7f1-4217-950d-7355419db1c6)
